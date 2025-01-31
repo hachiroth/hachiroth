@@ -1,3 +1,5 @@
+<h2 style="color: #ffffff; font-weight: 600; font-family: 'Arial', sans-serif;">Skills</h2>
+
 [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=white&color=%23E34F26)](https://html.com/)
 &nbsp;
 [![CSS](https://img.shields.io/badge/CSS-white?style=flat&logo=css&logoColor=white&color=%23663399)](https://www.w3.org/Style/CSS/)
