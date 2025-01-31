@@ -1,19 +1,20 @@
-## Hi there 👋
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+# Hi, I'm Psyduck 👋
+I'm a software developer passionate about music tech and coding.
 
-<!--
-**poorthink/poorthink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills
+- JavaScript (Node.js, Express)
+- TypeScript
+- Deno
+- Spotify API
+- Apple Music API
 
-Here are some ideas to get you started:
+## 📈 My GitHub Stats
+![Psyduck's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Latest Blog Posts
+- [Post 1](#)
+- [Post 2](#)
+
+## 📫 Contact Me
+- Email: your-email@example.com
+- LinkedIn: [your-linkedin](#)
