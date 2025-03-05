@@ -13,5 +13,4 @@
 [![React](https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=white&color=%2361DAFB)](https://reactjs.org/)
 &nbsp;
 [![Node.js](https://img.shields.io/badge/Node.js-white?style=flat&logo=node.js&logoColor=white&color=%235FA04E)](https://nodejs.org/)
-&nbsp;
-[![Deno](https://img.shields.io/badge/Deno-lightgrey?style=flat&logo=deno&logoColor=white&color=%23000000)](https://deno.land/)
+
