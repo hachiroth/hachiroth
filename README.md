@@ -1,4 +1,13 @@
-<h2 style="color: #ffffff; font-weight: 600; font-family: 'Arial', sans-serif;">Skills</h2>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=hachiroth&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hachiroth&show_icons=true&theme=default"
+    alt="Hachiroth's GitHub stats" />
+</picture>
+
+<h2>Skills</h2>
 
 [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat&logo=html5&logoColor=white&color=%23E34F26)](https://html.com/)
 &nbsp;
@@ -14,3 +23,11 @@
 &nbsp;
 [![Node.js](https://img.shields.io/badge/Node.js-white?style=flat&logo=node.js&logoColor=white&color=%235FA04E)](https://nodejs.org/)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hachiroth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+    media="(prefers-color-scheme: dark)" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hachiroth&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+    alt="Top languages" />
+</picture>
